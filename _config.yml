@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "2019-09-20 170524.jpg"
+  avatar           : "pic.png"
   name             : "Zeyun Zhao"
   pronouns         : # example: "she/her"  
   bio              : "An incoming legendary"
