@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Biomedical Engineering master student under supervised by [Dr.Ruogu Fang](https://lab-smile.github.io/index.html)at the University of Floida (USA). I have gained my master's degree in Artificial Intelligence supervised by [Dr.Shaozi Li](https://imt.xmu.edu.cn/info/1003/1182.htm) and [Dr.Zhiming Luo](https://sites.google.com/view/zhimingluo/home) at Xiamen University (CN) in 2024. I have gained my Bachelor's degree in Computer Science and Technology at Jiangnan University (CN) in 2021. I am very interested in AI and CS, especial how to apply AI algorithms in healthcare systems. I have done research in few-shot medical image segmentation for 3 years at Xiamen University and I am doing research on AI-based Vagus Nerve Stimulation and Vision-Language-Model-based imaging system now. 
+I am a master student under in Biomedical Engineering supervised by [Dr.Ruogu Fang](https://lab-smile.github.io/index.html) at the University of Floida (USA). I have gained my Master's degree in Artificial Intelligence supervised by [Dr.Shaozi Li](https://imt.xmu.edu.cn/info/1003/1182.htm) and [Dr.Zhiming Luo](https://sites.google.com/view/zhimingluo/home) at Xiamen University (CN) in 2024, and gained my Bachelor's degree in Computer Science and Technology at Jiangnan University (CN) in 2021. I am very interested in AI and CS, especial how to apply AI algorithms in healthcare systems. My research has focused on few-shot medical image segmentation at Xiamen University for 3 years. My research focuses currently are AI-based Neural System Stimulation and Vision-Language-Model-based imaging system. 
 
 A data-driven personal website
 ======
