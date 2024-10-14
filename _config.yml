@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "2019-09-20 170524.jpg"
+  name             : "Zeyun Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A coming legendary with passion"
+  location         : "Gainesville"
+  employer         : "Dr. Ruogu Fang"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zeyun.zhao@ufl.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
