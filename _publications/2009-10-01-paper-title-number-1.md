@@ -2,7 +2,7 @@
 title: "Mask Matching Network for Self-supervised Few-Shot Medical Image Segmentation"
 collection: publications
 category: conferences
-permalink: /publication/2024-10-01-Mask Matching Network for Self-supervised Few-Shot Medical Image Segmentation-number-1
+permalink: 
 excerpt: ''
 date: 2024
 venue: 'Conference 1'
