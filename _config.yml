@@ -78,11 +78,10 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: ''    
+    title: 'Manuscripts'    
   conferences:
-    title: 'Mask Matching Network for Self-supervised Few-Shot Medical Image Segmentation (IEEE ICME 2024)'
-    title: 'CPNet: Cross Prototype for Few-shot Medical lmage Segmentation (PRCV 2024)'
-    title: 'Mask Refinement With Reverse Attention for Few-Shot Medical Image Segmentation (IEEE UIC 2024)'
+    title: 'Conference Papers'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
