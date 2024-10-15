@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-He is a master student under in Biomedical Engineering supervised by [Dr.Ruogu Fang](https://lab-smile.github.io/index.html) at the University of Floida (USA). He has gained his Master's degree in Artificial Intelligence supervised by [Dr.Shaozi Li](https://imt.xmu.edu.cn/info/1003/1182.htm) and [Dr.Zhiming Luo](https://sites.google.com/view/zhimingluo/home) at Xiamen University (CN) in 2024, and gained his Bachelor's degree majoring in Computer Science and Technology with minoring in Finance at Jiangnan University (CN) in 2021. He is particularly  interested in AI and CS, especial how to apply AI algorithms in healthcare systems. His research has focused on few-shot medical image segmentation at Xiamen University for 3 years. His research focuses currently are AI-based Neural System Stimulation and Vision-Language-Model-based imaging system building. 
+He is a master student in Biomedical Engineering supervised by [Dr.Ruogu Fang](https://lab-smile.github.io/index.html) at the University of Floida (USA). He has gained his Master's degree in Artificial Intelligence supervised by [Dr.Shaozi Li](https://imt.xmu.edu.cn/info/1003/1182.htm) and [Dr.Zhiming Luo](https://sites.google.com/view/zhimingluo/home) at Xiamen University (CN) in 2024, and gained his Bachelor's degree majoring in Computer Science and Technology with minoring in Finance at Jiangnan University (CN) in 2021. He is particularly  interested in AI and CS, especial how to apply AI algorithms in healthcare systems. His research has focused on few-shot medical image segmentation at Xiamen University for 3 years. His research focuses currently are AI-based Neural System Stimulation and Vision-Language-Model-based imaging system building. 
 
 Honnors
 ======
