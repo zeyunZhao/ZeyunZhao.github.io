@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Zeyun Zhao's space"
+title: "Welcome to Zeyun (Hughes) Zhao's space"
 author_profile: true
 redirect_from: 
   - /about/
