@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Welcome to Zeyun Zhao's spaces"
+title: "Welcome to Zeyun Zhao's space"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a master student under in Biomedical Engineering supervised by [Dr.Ruogu Fang](https://lab-smile.github.io/index.html) at the University of Floida (USA). I have gained my Master's degree in Artificial Intelligence supervised by [Dr.Shaozi Li](https://imt.xmu.edu.cn/info/1003/1182.htm) and [Dr.Zhiming Luo](https://sites.google.com/view/zhimingluo/home) at Xiamen University (CN) in 2024, and gained my Bachelor's degree in Computer Science and Technology at Jiangnan University (CN) in 2021. I am very interested in AI and CS, especial how to apply AI algorithms in healthcare systems. My research has focused on few-shot medical image segmentation at Xiamen University for 3 years. My research focuses currently are AI-based Neural System Stimulation and Vision-Language-Model-based imaging system. 
+He is a master student under in Biomedical Engineering supervised by [Dr.Ruogu Fang](https://lab-smile.github.io/index.html) at the University of Floida (USA). He has gained his Master's degree in Artificial Intelligence supervised by [Dr.Shaozi Li](https://imt.xmu.edu.cn/info/1003/1182.htm) and [Dr.Zhiming Luo](https://sites.google.com/view/zhimingluo/home) at Xiamen University (CN) in 2024, and gained his Bachelor's degree majoring in Computer Science and Technology with minoring in Finance at Jiangnan University (CN) in 2021. He is particularly  interested in AI and CS, especial how to apply AI algorithms in healthcare systems. His research has focused on few-shot medical image segmentation at Xiamen University for 3 years. His research focuses currently are AI-based Neural System Stimulation and Vision-Language-Model-based imaging system building. 
 
-A data-driven personal website
+Honnors
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
