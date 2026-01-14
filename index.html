@@ -352,32 +352,32 @@
         <!-- Research -->
         <section id="research" aria-label="Research">
           <h2>Active Research Areas</h2>
-          <p class="muted">把研究方向分成 2–4 个“块”，每块一段解释 + 代表论文列表。</p>
+          <!-- <p class="muted">把研究方向分成 2–4 个“块”，每块一段解释 + 代表论文列表。</p> -->
 
           <div class="area">
-            <h3>1. Robust and Reliable AI</h3>
+            <h3>1. Few-shot Medical Image Segmentation</h3>
             <p>
-              现实世界数据噪声大、提示不完美、分布漂移常见。我们开发具有理论支撑的方法，增强模型在混乱环境下的可靠性与安全性。
+              Medical image segmentation is annotation-heavy, rare lesions are data-scarce, and domain shifts across scanners/protocols are common. We study few-shot medical image segmentation: learning to segment new organs or pathologies from only a handful of labeled examples (e.g., 1–5 cases), enabling fast adaptation and robust generalization under limited supervision and real-world distribution drift.
             </p>
 
             <div class="pub" id="selected">
-              <p class="ptitle">Paper Title: Reliable AI under Distribution Shift</p>
-              <p class="pauthors">Your Name, Coauthor A, Coauthor B</p>
-              <p class="pvenue">ICLR 2026 · Spotlight</p>
+              <p class="ptitle">Paper Title: Mask Matching Network for Self-supervised Few-Shot Medical Image Segmentation</p>
+              <p class="pauthors">Zeyun Zhao, Rong Wang, Zhiming Luo</p>
+              <p class="pvenue">ICME 2024 </p>
               <div class="plinks">
-                <a href="#" target="_blank" rel="noreferrer">paper</a>
-                <a href="#" target="_blank" rel="noreferrer">code</a>
-                <a href="#" target="_blank" rel="noreferrer">website</a>
+                <a href="https://ieeexplore.ieee.org/document/10687373" target="_blank" rel="noreferrer">paper</a>
+                <!-- <a href="#" target="_blank" rel="noreferrer">code</a>
+                <a href="#" target="_blank" rel="noreferrer">website</a> -->
               </div>
             </div>
 
             <div class="pub">
-              <p class="ptitle">Paper Title: Noise-Robust Pretraining</p>
-              <p class="pauthors">Your Name, Coauthor C</p>
-              <p class="pvenue">NeurIPS 2025</p>
+              <p class="ptitle">Paper Title: CPNet: Cross Prototype for Few-shot Medical lmage Segmentation</p>
+              <p class="pauthors">Zeyun Zhao, Zhiming Luo</p>
+              <p class="pvenue">PRCV 2024</p>
               <div class="plinks">
-                <a href="#" target="_blank" rel="noreferrer">paper</a>
-                <a href="#" target="_blank" rel="noreferrer">code</a>
+                <a href="https://ieeexplore.ieee.org/document/10687373" target="_blank" rel="noreferrer">paper</a>
+                <!-- <a href="#" target="_blank" rel="noreferrer">code</a> -->
               </div>
             </div>
           </div>
@@ -385,10 +385,10 @@
           <div class="area">
             <h3>2. AI Systems and AI Agents</h3>
             <p>
-              构建能和人协作的 AI 系统：具备工具使用、规划、反馈整合与可控执行能力，面向真实工作流落地。
+              Real-world workflows are messy: goals are underspecified, information is incomplete, and tasks require multiple tools and steps. We build AI systems and agents that can plan, use external tools (e.g., search, code, databases), incorporate feedback, and execute reliably—turning foundation models into practical, controllable assistants for end-to-end problem solving.
             </p>
 
-            <div class="pub">
+            <!-- <div class="pub">
               <p class="ptitle">Paper Title: Agentic Framework for Tool Use</p>
               <p class="pauthors">Your Name, Coauthor D, Coauthor E</p>
               <p class="pvenue">NAACL 2025 · Best Paper</p>
@@ -396,17 +396,17 @@
                 <a href="#" target="_blank" rel="noreferrer">paper</a>
                 <a href="#" target="_blank" rel="noreferrer">demo</a>
                 <a href="#" target="_blank" rel="noreferrer">github</a>
-              </div>
+              </div> -->
+              
             </div>
           </div>
 
           <div class="area">
-            <h3>3. AI for Human Disease and Health</h3>
+            <h3>3. Medical Foundation Model</h3>
             <p>
-              医疗场景高风险、强约束。我们将领域知识与先进模型结合，支持临床决策与疾病研究（例如影像、EHR、多模态）。
-            </p>
+              Clinical data are fragmented across imaging, EHR, labs, and notes, with strong heterogeneity, missingness, and limited labels. We build medical foundation models pretrained on large-scale multimodal health data to learn reusable representations, then adapt them to diverse clinical tasks (diagnosis, risk prediction, treatment response) with minimal supervision—aiming for robust generalization, interpretability, and safe deployment in real-world care.            </p>
 
-            <div class="pub">
+            <!-- <div class="pub">
               <p class="ptitle">Paper Title: Generalizable Model for Early Diagnosis</p>
               <p class="pauthors">Your Name, Coauthor F</p>
               <p class="pvenue">Nature Scientific Reports 2025</p>
@@ -414,7 +414,8 @@
                 <a href="#" target="_blank" rel="noreferrer">paper</a>
                 <a href="#" target="_blank" rel="noreferrer">code</a>
               </div>
-            </div>
+            </div> -->
+            
           </div>
 
         </section>
